@@ -1,0 +1,27 @@
+{
+  "name": "react-reactive-form-simple-form-example",
+  "version": "1.0.0",
+  "description": "A Simple Form component written with\nreact-reactive-form.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4rxokpr270",
+  "main": "index.tsx",
+  "dependencies": {
+    "@types/react": "16.0.7",
+    "@types/react-dom": "15.5.4",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-reactive-form": "1.0.27",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "@types/react-dom/node-stream": "latest",
+    "@types/react-dom/server": "latest",
+    "@types/react-dom/test-utils": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
